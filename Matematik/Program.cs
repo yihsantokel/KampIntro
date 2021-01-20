@@ -11,6 +11,9 @@ namespace Matematik
             dortIslem.Cikarma(5, 6);
             dortIslem.Topla(44, 51);
             dortIslem.Cikarma(44, 51);
+            dortIslem.SpecialAdd(15, 40);
+            dortIslem.SpecialAdd(29, 35);
+
         }
     }
 }
